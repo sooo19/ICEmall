@@ -8,7 +8,7 @@
 + **ICE.com**
 
 
-+ Function:
++ **Function:**
   1) show the product list
   2) Show the product details
       
@@ -19,5 +19,5 @@
 
 
 
-+ Constraints:
++ **Constraints:**
 
