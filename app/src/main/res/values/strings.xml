@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">정보통신공학과 2019112091 윤수림</string>
+    <string name="product_price">price</string>
+    <string name="product_name">name</string>
+    <string name="product_url">URL</string>
+    <string name="logo_explanation">logo_explanation</string>
+    <string name="text_explanation">text_explanation</string>
+    <string name="check">check</string>
+    <string name="phone">phone</string>
+    <string name="email">email</string>
+    <string name="map">map</string>
+    <string name="product">제품명</string>
+    <string name="price">가격</string>
+    <string name="details">제품 설명</string>
+    <string name="link">제품 링크</string>
+    <string name="connect">링크 연결</string>
+</resources>
