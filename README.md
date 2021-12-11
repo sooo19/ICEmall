@@ -4,10 +4,11 @@
 
 *Shoppingmall Application*
 
-**+ICE.com**
+
++ICE.com
 
 
-**+function:**
++function:
   1) show the product list
   2) Show the product details
       
@@ -18,5 +19,5 @@
 
 
 
-**+constraints:**
++constraints:
 
