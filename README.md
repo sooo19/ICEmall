@@ -1,7 +1,7 @@
 # ICEmall
 
-Mobile Project Final Project
-Shoppingmall Application
+**Mobile Project Final Project**
+*Shoppingmall Application*
 
 **<ICE.com>**
 
