@@ -12,7 +12,7 @@ import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-// 제품에 대한 details
+// 제품에 대한 details (세부 설명)
 
 public class Details extends AppCompatActivity {
 
