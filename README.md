@@ -17,7 +17,8 @@
   4) Send an email to the customer center at ICE.com
   5) Show the location on the map of ICE.com Customer Center.
 
-
++ **Additional Function:**
+  - when customer clicks 'link connection' button, Connect the website of a product manufacturer.
 
 + **UI:**
 
