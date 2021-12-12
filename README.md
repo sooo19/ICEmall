@@ -24,7 +24,6 @@
  
  
    **1) Main**
-   ----
        <img src="https://user-images.githubusercontent.com/68285808/145713741-326d22bb-37d3-4bfe-a016-4c84dcb95e4f.jpg" width="200" height="400"/>
        <img src="https://user-images.githubusercontent.com/68285808/145713762-88feb4ab-fccc-4d98-af80-704eac2f187c.jpg" width="200" height="400"/>
        <img src="https://user-images.githubusercontent.com/68285808/145713772-496ebc99-17cc-4628-882e-2e640cd4e1a5.jpg " width="200" height="400"/>
