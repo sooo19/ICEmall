@@ -18,7 +18,7 @@
   5) Show the location on the map of ICE.com Customer Center.
 
 + **Additional Function:**
-  - when customer clicks 'link connection' button, Connect the website of a product manufacturer.
+  - when the customer clicks 'Link Connection' button, Connect the website of a product manufacturer.
 
 + **UI:**
 
