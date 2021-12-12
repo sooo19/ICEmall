@@ -28,12 +28,18 @@
        <img src="https://user-images.githubusercontent.com/68285808/145713741-326d22bb-37d3-4bfe-a016-4c84dcb95e4f.jpg" width="200" height="400"/>
 
 
+
+
     - Phone call
        <img src="https://user-images.githubusercontent.com/68285808/145713762-88feb4ab-fccc-4d98-af80-704eac2f187c.jpg" width="200" height="400"/>
 
 
+
+
     - Send Email
        <img src="https://user-images.githubusercontent.com/68285808/145713772-496ebc99-17cc-4628-882e-2e640cd4e1a5.jpg " width="200" height="400"/>
+
+
 
 
     - Show Maps
@@ -43,13 +49,17 @@
   
   
  **2) Details**
-      
+      - Dasique Product Details
        <img src="https://user-images.githubusercontent.com/68285808/145713784-c84494c6-166f-4fa0-80f5-1ee6439c12a8.jpg " width="200" height="400"/>
-       
-       <img src="https://user-images.githubusercontent.com/68285808/145713796-df964a3c-0003-4a66-91e7-4bf99d315da2.jpg " width="200" height="400"/>
+      
+      - Dasique Hompage
+       <img src="https://user-images.githubusercontent.com/68285808/145714150-c2d4d7c5-ceae-44d3-a2e7-0279ea0e6d63.jpg "width="200" height="400"/>
 
 
+
+      - Rom&nd Product Details
        <img src="https://user-images.githubusercontent.com/68285808/145713790-ad8934a1-82b0-4a26-9d11-aa109eca5cad.jpg " width="200" height="400"/>
        
+      - Rom&nd Hompage 
        <img src="https://user-images.githubusercontent.com/68285808/145713799-34760f07-a211-4c64-9d4e-460ef8334891.jpg " width="200" height="400"/>
 
